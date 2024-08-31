@@ -1,6 +1,9 @@
 # _**Hello, this is my GitHub profile!**_
 # *Let's learn GitHub together!*
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+var myVar = "Hello, world!";
+```
 
 
 
