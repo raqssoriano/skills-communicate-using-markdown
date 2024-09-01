@@ -30,6 +30,6 @@ var myVar = "Hello, world!";
 
 - [x] To edit header in GitHub
 - [x] To make the header(s) appear italic and bold
-- [ ] To earn a badge in GitHub once markdown is completed
+- [ ] To earn a badge on GitHub once markdown is completed
 - [ ] To submit assignment to Brightspace before the deadline 09/01/2024
 
